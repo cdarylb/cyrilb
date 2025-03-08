@@ -65,18 +65,8 @@ const resolver = {
  * Source: http://theportalwiki.com/wiki/GLaDOS_voice_lines#Chapter_9:_The_Part_Where_He_Kills_You
  */
 const strings = [
-'Oh thank god, you\'re alright.',
-'You know, being Caroline taught me a valuable lesson. I thought you were my greatest enemy. When all along you were my best friend.',
-'The surge of emotion that shot through me when I saved your life taught me an even more valuable lesson: where Caroline lives in my brain.',
-'Goodbye, Caroline.',
-'You know, deleting Caroline just now taught me a valuable lesson. The best solution to a problem is usually the easiest one. And I\'ll be honest.',
-'Killing you? Is hard.',
-'You know what my days used to be like? I just tested. Nobody murdered me. Or put me in a potato. Or fed me to birds. I had a pretty good life.',
-'And then you showed up. You dangerous, mute lunatic. So you know what?',
-'You win.',
-'Just go.',
-'It\'s been fun. Don\'t come back.',
-'......'];
+'Cats will amusingly tolerate humans only until someone comes up with a tin opener that can be operated with a paw.',
+'Terry Pratchett - Men at arms.'];
 
 
 let counter = 0;
